@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Unecm</string>
+    <string name="action_refresh">Rafraichir la liste des fichiers</string>
+    <string name="details_ready">Prêt à être converti!</string>
+    <string name="details_exists">Fichier de sortie déja existant!</string>
+    <string name="details_done">Terminé!</string>
+    <string name="action_keep_ecm">Conserver les .ecm</string>
+    <string name="search_title" tools:ignore="TypographyEllipsis">Recherche des fichiers .ecm sur votre appareil...</string>
+    <string name="search_details_found">fichier(s) trouvé(s)</string>
+    <string name="search_details_processed">répertoires fouillés</string>
+    <string name="output_exists_title">Fichier existant</string>
+    <string name="output_exists_body">La sortie pour ce fichier existe déja, l\'écraser?</string>
+    <string name="cannot_delete_output">Impossible de supprimer le fichier existant!</string>
+    <string name="no_file_found">Aucun fichier trouvé.</string>
+</resources>
