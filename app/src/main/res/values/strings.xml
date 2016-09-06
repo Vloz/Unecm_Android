@@ -3,7 +3,7 @@
     <string name="action_refresh">Refresh file list</string>
     <string name="details_ready">Ready to convert!</string>
     <string name="details_exists">Output already exists...</string>
-    <string name="details_done">Finnished!</string>
+    <string name="details_done">Finished!</string>
     <string name="action_keep_ecm">Keep .ecm files</string>
     <string name="search_title">Searching for ecm files on your device...</string>
     <string name="search_details_found">file(s) found</string>
