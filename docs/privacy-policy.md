@@ -3,8 +3,8 @@
 **Last updated:** January 29, 2026
 
 ## Introduction
-Unecm (“the App”) is developed and maintained by **Anthony Bobenrieth**.  
-This Privacy Policy explains how information is handled when you use the App.
+Unecm is developed and maintained by **Anthony Bobenrieth**.  
+This Privacy Policy explains how information is handled when you use Unecm.
 
 If you have any questions about this Privacy Policy, you can contact us at:  
 📧 **vlozer@gmail.com**
@@ -13,7 +13,7 @@ If you have any questions about this Privacy Policy, you can contact us at:
 
 ## Information Collection and Use
 
-### Data processed by the App
+### Data processed by the Unecm
 Unecm is a simple utility application designed to decompress ECM (Error Code Modeler) disk image files.
 
 - The App processes **only the file explicitly selected by the user**
